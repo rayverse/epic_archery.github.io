@@ -1,2 +1,1 @@
-# epic_archery.github.io
-project 22
+# project-C22-template
